@@ -124,8 +124,6 @@ Feel free to open issues or pull requests if you have suggestions or improvement
 
 ## License
 
-## License
-
 This project is licensed under the [MIT License](LICENSE).  
 You are free to use, modify, and distribute this project, provided you include a copy of the license with your work.
 
